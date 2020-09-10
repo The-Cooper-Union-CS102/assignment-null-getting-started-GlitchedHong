@@ -1,3 +1,3 @@
 # Assignment-Null-Getting-Started
 
-Hello, world
+echo "Hello, world"
